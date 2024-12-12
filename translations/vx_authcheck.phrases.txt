@@ -1,0 +1,20 @@
+"Phrases"
+{
+	"attemptFailed-0"
+	{
+		"#format"	"{1:s}"
+		"tr"	"Dikkat {olive}{1},\n{cyan}Steam Kimlik {white}Bilgilerinizi {red}Alamadık."
+		"en"	"Attention {olive}{1},\n{white}We {red}couldn't retrieve your {cyan}Steam Auth."
+	}
+	"attemptFailed-1"
+	{
+		"#format"	"{1:d}"
+		"tr"	"{white}Sunucunun doğru bir şekilde işlemeye devam edebilmesi için {green}{1} {white}kere daha Steam Kimlik bilgileriniz kontrol edilecek."
+		"en"	"{white}To ensure the server continues to function properly, your Steam Auth will be checked {green}{1} {white}more times."
+	}
+	"attemptFailed-2"
+	{
+		"tr"	"{white}Eğer kimlik bilgileriniz elde edilemezse {red}atılacaksınız."
+		"en"	"{white}If the auth values cannot be retrieved, {red}you will be kicked."
+	}
+}
